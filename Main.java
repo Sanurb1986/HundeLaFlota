@@ -1,7 +1,9 @@
 package HundeLaFlota;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         System.out.println("¡Bienvenido a Hunde La Flota!");
+        System.out.println("hola");
+        System.out.println("Soy Diego");
     }
 }
